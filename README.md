@@ -24,7 +24,7 @@
                 Seed = 0 ~ 9223372036854775807 (long 타입의 양수 범위)
                 Min Number, MaxNumber = 0 ~ 2147483647 (int 타입의 양수 범위)
                 Iterations = 0 ~ 2147483647 (int 타입의 양수 범위)
-                    (Iterations에 매우 큰 수 입력 시 컴퓨터의 메모리 양에 따라 OutOfMemoryException: Out of memory 에러가 일어 날 수 있으니 주의)
+                    (Iterations에 매우 큰 수 입력 시 컴퓨터의 메모리 양에 따라 OutOfMemoryException 에러가 일어 날 수 있으니 주의)
             
 
 
