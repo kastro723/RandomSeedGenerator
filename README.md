@@ -6,7 +6,8 @@
                    - Random Seed Generator 기능 구현
 
 -------------------------------------------------------------------------------------
-![image](https://github.com/kastro723/RandomSeedGenerator/assets/55536937/c017aba6-245c-44b5-ab5d-052b63444c53)
+![image](https://github.com/kastro723/RandomSeedGenerator/assets/55536937/913db195-b5b2-437a-8aa9-89ab903f76da)
+
 
 
     [기능설명]
