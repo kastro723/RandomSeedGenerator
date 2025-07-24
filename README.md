@@ -11,7 +11,7 @@
                    - Random Seed Generator 기능 구현
 
 -------------------------------------------------------------------------------------
-![image](https://github.com/kastro723/RandomSeedGenerator/assets/55536937/e9a440be-a373-432a-996c-f02ed6db458b)
+<img width="378" height="637" alt="image" src="https://github.com/user-attachments/assets/a8133886-6f2a-42c7-9280-572455b969a9" />
 
 
 
@@ -24,7 +24,8 @@
                 Seed = 0 ~ 9223372036854775807 (long 타입의 양수 범위)
                 Min Number, MaxNumber = 0 ~ 2147483647 (int 타입의 양수 범위)
                 Iterations = 0 ~ 2147483647 (int 타입의 양수 범위)
-                    (Iterations에 매우 큰 수 입력 시 컴퓨터의 메모리 양에 따라 OutOfMemoryException 에러가 일어 날 수 있으니 주의)
+                    (Iterations에 매우 큰 수 입력 시 컴퓨터의 메모리 양에 따라
+                    OutOfMemoryException 에러가 일어 날 수 있으니 주의)
             
 
 
